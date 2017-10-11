@@ -98,7 +98,7 @@ summary(as.data.frame(data_feasibility[data_feasibility$redcap_event_name=="enro
 summary(data_feasibility[data_feasibility$redcap_event_name=="second_visit_nov_arm_1",which(names(data_feasibility)=="name_notetaker"):which(names(data_feasibility)=="feasibility_of_lean_1_phone_usage_complete")])
 ```
   
-* Feasibility of Lean2 (sms evalution)27.1的变量描述
+* Feasibility of Lean2 (sms evalution)27的变量描述
 ```{r}
 summary(data_feasibility[data_feasibility$redcap_event_name=="third_visit_mar_arm_1",which(names(data_feasibility)=="name_notetaker_v2_v2_v2_7dce7b"):which(names(data_feasibility)=="feasibility_of_lean_3_sms_evaluation_27_complete")])
 ```

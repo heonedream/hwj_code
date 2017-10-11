@@ -1,0 +1,14 @@
+---
+title: "2_Trim_up_Feasibility_Table_27.1"
+author: "Hewenjun"
+date: "2017/10/11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+###此份数据报告是针对Lean 项目主体大文章（评价干预效果）的Feasibility部分Table3结果进行整理。所用数据是Feasiability of LEAN 3(sms evaluation)27.1量表。由于Lean项目总人群为277人，应与主文章进行数据合并，然后整理分析。###
+
+**分析过程包含以下步骤：**
+1.提取数据出来
